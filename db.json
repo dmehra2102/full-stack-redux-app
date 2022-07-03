@@ -1,0 +1,194 @@
+{
+  "Books": [
+    {
+      "id": "dskd982-djh82",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "2jkwd09njk2-dkjj2898",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2020,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "colwq93-0=2nwwfe",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2021,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "lkd09ejk390de-dkc8",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2022,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "2039qjd-3jkd983",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qjzjDPKuEoH7aQeuDVjN9X1jNvG4lyWR_r2zycqJq7IRNrDzsS5eDmuv5IzDa9w2BEU&usqp=CAU",
+      "book_name": "Think Again",
+      "category": "Motivational",
+      "release_year": "2018",
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "220dkjwdow93nj9023jk",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "data:image/jpeg;base64,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",
+      "book_name": "Girl in Room 105",
+      "category": "Thriller",
+      "release_year": "2015",
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "azlodow9398rn-ei39",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2016,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "pqkao-93nj29njsna",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2015,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "2kla-lxdmasx2302n",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2014,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": "oqsmnamkdo0302-nsij2923n",
+      "no_of_chapters": 6,
+      "author": "Masai",
+      "cover_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMhQyA7ht5kFfqbNOh-RrID2qevK5UuCTEA&usqp=CAU",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2013,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        }
+      ]
+    }
+  ]
+}

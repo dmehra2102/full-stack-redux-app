@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+import { Route, Routes } from 'react-router';
+import Navbar from './Navbar';
 import './App.css';
+import Books from './components/Books';
+import Login from './components/Login';
+import SingleBooks from './components/SingleBooks';
+import Editbook from './components/Editbook';
+import PrivateComponent from './components/PrivateComponent';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Books />} />
+        <Route path="/books/:id" element={<SingleBooks />} />
+        <Route path="/books/:id/edit" element={<PrivateComponent><Editbook /></PrivateComponent>} />
+        <Route path="/login" element={<Login />} />
+        <Route path="*" element={<h3>Page Not Found</h3>} />
+      </Routes>
     </div>
   );
 }
